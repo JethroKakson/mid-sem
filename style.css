@@ -73,10 +73,15 @@ h3{
 .content2 ul li{
     padding: 10px;
     font-size: 20px;
+    color: #ff4567;
 }
 .content3 ul li{
     padding: 10px;
     font-size: 20px;
+}
+.content3 img{
+    width: 30%;
+    height: auto;
 }
 .content4 ul li{
     padding: 10px;
