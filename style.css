@@ -21,7 +21,7 @@
     background-image: url(./assets/laptop.jpg);
 }
 .css-body{
-    background-image: url(./assets/macbook.jpg);
+    background-image: url(./assets/5.jpg);
 }
 .nav{
     display: flex;
@@ -73,7 +73,6 @@ h3{
 .content2 ul li{
     padding: 10px;
     font-size: 20px;
-    color: #ff4567;
 }
 .content3 ul li{
     padding: 10px;
