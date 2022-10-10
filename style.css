@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+
+}
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+.nav ul li a{
+    background: #ff4567;
+    padding: 10px;
+    border-radius: 20px;
+}
